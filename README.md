@@ -1,4 +1,4 @@
 KooabaConnect
 =============
 
-Create image recognition request with kooaba
+Phonegap plugin to create image recognition request with kooaba
