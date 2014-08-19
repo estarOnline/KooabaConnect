@@ -7,6 +7,7 @@
     <description>Connect to Kooaba</description>
     <license>Apache 2.0</license>
     <keywords>kooaba</keywords>
+    <repo>https://github.com/estarOnline/KooabaConnect.git</repo>
 
     <!-- android -->
     <platform name="android">
