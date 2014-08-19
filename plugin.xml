@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="org.apache.cordova.plugin.kooabaconnect"
+    id="org.estaronline.plugin.kooabaconnect"
     version="0.0.2">
     <name>KooabaConnect</name>
     <description>Connect to Kooaba</description>
@@ -13,11 +13,11 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="KooabaConnect" >
-                <param name="android-package" value="org.apache.cordova.plugin.KooabaConnect"/>
+                <param name="android-package" value="org.estaronline.KooabaConnect"/>
             </feature>
         </config-file>
 
-        <source-file src="src/android/KooabaConnect.java" target-dir="src/org/apache/cordova/plugin" />
+        <source-file src="src/android/KooabaConnect.java" target-dir="src/org/estaronline" />
     </platform>
 
 </plugin>
