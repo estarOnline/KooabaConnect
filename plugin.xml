@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="org.estaronline.plugin.kooabaconnect"
-    version="0.0.2">
+    version="0.0.3">
     <name>KooabaConnect</name>
     <description>Connect to Kooaba</description>
     <license>Apache 2.0</license>
